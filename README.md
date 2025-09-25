@@ -22,9 +22,4 @@ upload npk_arduino code to arduino via arduino IDE  (connect the USB in COM3 por
 ### `node server.js` to run node js
 <img width="1616" height="1076" alt="image" src="https://github.com/user-attachments/assets/8be1dcb4-6c90-4804-8ea6-24905a181c73" />
 
-crop-recommendation
-    src
-        App.css
-        App.js
-        App.test.js
-        <img width="1750" height="1039" alt="image" src="https://github.com/user-attachments/assets/0d551a67-104a-49d5-a56d-b9f0e01e1ec5" />
+<img width="1750" height="1039" alt="image" src="https://github.com/user-attachments/assets/0d551a67-104a-49d5-a56d-b9f0e01e1ec5" />
