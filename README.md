@@ -27,3 +27,4 @@ crop-recommendation
         App.css
         App.js
         App.test.js
+        <img width="1750" height="1039" alt="image" src="https://github.com/user-attachments/assets/0d551a67-104a-49d5-a56d-b9f0e01e1ec5" />
